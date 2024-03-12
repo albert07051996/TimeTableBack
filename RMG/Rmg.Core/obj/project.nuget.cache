@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cs/DredPKFG54ux2bA1PuMLHwAA6XBL9W3y5NsxXVm3oiY7oh6y33rMpAKkQFoRFq49qId67naYw4sRJ0Yp9gg==",
+  "dgSpecHash": "zDK4czEHSaOB+xyFQ8J74EfxgxQbYI3JSL4deTxRbKhvg0eh7QpROcXOOgJv0aKhE44fDSXW0sPvFirm4iX03w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unami\\source\\repos\\TimeTableBack\\RMG\\Rmg.Core\\Rmg.CORE.csproj",
+  "projectFilePath": "C:\\Users\\unami\\source\\repos\\RMG\\Rmg.Core\\Rmg.CORE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unami\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\unami\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

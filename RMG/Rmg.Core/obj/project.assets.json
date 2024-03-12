@@ -4042,11 +4042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unami\\source\\repos\\TimeTableBack\\RMG\\Rmg.Core\\Rmg.CORE.csproj",
+      "projectUniqueName": "C:\\Users\\unami\\source\\repos\\RMG\\Rmg.Core\\Rmg.CORE.csproj",
       "projectName": "Rmg.CORE",
-      "projectPath": "C:\\Users\\unami\\source\\repos\\TimeTableBack\\RMG\\Rmg.Core\\Rmg.CORE.csproj",
+      "projectPath": "C:\\Users\\unami\\source\\repos\\RMG\\Rmg.Core\\Rmg.CORE.csproj",
       "packagesPath": "C:\\Users\\unami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unami\\source\\repos\\TimeTableBack\\RMG\\Rmg.Core\\obj\\",
+      "outputPath": "C:\\Users\\unami\\source\\repos\\RMG\\Rmg.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\unami\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4063,8 +4063,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\unami\\source\\repos\\TimeTableBack\\RMG\\Rmg.DAl\\Rmg.DAL.csproj": {
-              "projectPath": "C:\\Users\\unami\\source\\repos\\TimeTableBack\\RMG\\Rmg.DAl\\Rmg.DAL.csproj"
+            "C:\\Users\\unami\\source\\repos\\RMG\\Rmg.DAl\\Rmg.DAL.csproj": {
+              "projectPath": "C:\\Users\\unami\\source\\repos\\RMG\\Rmg.DAl\\Rmg.DAL.csproj"
             }
           }
         }
