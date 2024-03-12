@@ -4022,11 +4022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unami\\source\\repos\\RMG\\Rmg.DAl\\Rmg.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\unami\\source\\repos\\TimeTableBack\\RMG\\Rmg.DAl\\Rmg.DAL.csproj",
       "projectName": "Rmg.DAL",
-      "projectPath": "C:\\Users\\unami\\source\\repos\\RMG\\Rmg.DAl\\Rmg.DAL.csproj",
+      "projectPath": "C:\\Users\\unami\\source\\repos\\TimeTableBack\\RMG\\Rmg.DAl\\Rmg.DAL.csproj",
       "packagesPath": "C:\\Users\\unami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unami\\source\\repos\\RMG\\Rmg.DAl\\obj\\",
+      "outputPath": "C:\\Users\\unami\\source\\repos\\TimeTableBack\\RMG\\Rmg.DAl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\unami\\AppData\\Roaming\\NuGet\\NuGet.Config",
