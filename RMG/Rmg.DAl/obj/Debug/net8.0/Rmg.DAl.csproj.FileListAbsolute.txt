@@ -1,0 +1,14 @@
+C:\Users\unami\source\repos\RMG\Rmg.DAl\bin\Debug\net8.0\Rmg.DAl.deps.json
+C:\Users\unami\source\repos\RMG\Rmg.DAl\bin\Debug\net8.0\Rmg.DAl.runtimeconfig.json
+C:\Users\unami\source\repos\RMG\Rmg.DAl\bin\Debug\net8.0\Rmg.DAl.dll
+C:\Users\unami\source\repos\RMG\Rmg.DAl\bin\Debug\net8.0\Rmg.DAl.pdb
+C:\Users\unami\source\repos\RMG\Rmg.DAl\obj\Debug\net8.0\Rmg.DAl.csproj.AssemblyReference.cache
+C:\Users\unami\source\repos\RMG\Rmg.DAl\obj\Debug\net8.0\Rmg.DAl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unami\source\repos\RMG\Rmg.DAl\obj\Debug\net8.0\Rmg.DAl.AssemblyInfoInputs.cache
+C:\Users\unami\source\repos\RMG\Rmg.DAl\obj\Debug\net8.0\Rmg.DAl.AssemblyInfo.cs
+C:\Users\unami\source\repos\RMG\Rmg.DAl\obj\Debug\net8.0\Rmg.DAl.csproj.CoreCompileInputs.cache
+C:\Users\unami\source\repos\RMG\Rmg.DAl\obj\Debug\net8.0\Rmg.DAl.dll
+C:\Users\unami\source\repos\RMG\Rmg.DAl\obj\Debug\net8.0\refint\Rmg.DAl.dll
+C:\Users\unami\source\repos\RMG\Rmg.DAl\obj\Debug\net8.0\Rmg.DAl.pdb
+C:\Users\unami\source\repos\RMG\Rmg.DAl\obj\Debug\net8.0\Rmg.DAl.genruntimeconfig.cache
+C:\Users\unami\source\repos\RMG\Rmg.DAl\obj\Debug\net8.0\ref\Rmg.DAl.dll

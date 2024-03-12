@@ -1,0 +1,17 @@
+C:\Users\unami\source\repos\RMG\Rmg.Core\bin\Release\net8.0\Rmg.CORE.deps.json
+C:\Users\unami\source\repos\RMG\Rmg.Core\bin\Release\net8.0\Rmg.CORE.runtimeconfig.json
+C:\Users\unami\source\repos\RMG\Rmg.Core\bin\Release\net8.0\Rmg.CORE.dll
+C:\Users\unami\source\repos\RMG\Rmg.Core\bin\Release\net8.0\Rmg.CORE.pdb
+C:\Users\unami\source\repos\RMG\Rmg.Core\bin\Release\net8.0\Rmg.DAL.dll
+C:\Users\unami\source\repos\RMG\Rmg.Core\bin\Release\net8.0\Rmg.DAL.pdb
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\Rmg.CORE.csproj.AssemblyReference.cache
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\Rmg.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\Rmg.CORE.AssemblyInfoInputs.cache
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\Rmg.CORE.AssemblyInfo.cs
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\Rmg.CORE.csproj.CoreCompileInputs.cache
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\Rmg.CORE.csproj.CopyComplete
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\Rmg.CORE.dll
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\refint\Rmg.CORE.dll
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\Rmg.CORE.pdb
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\Rmg.CORE.genruntimeconfig.cache
+C:\Users\unami\source\repos\RMG\Rmg.Core\obj\Release\net8.0\ref\Rmg.CORE.dll

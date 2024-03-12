@@ -1,0 +1,6 @@
+@Rmg.WEB_HostAddress = http://localhost:5249
+
+GET {{Rmg.WEB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
